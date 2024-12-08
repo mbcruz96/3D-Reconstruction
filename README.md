@@ -1,5 +1,5 @@
-# 3D-Reconstruction
-- 3D Reconstruction by linear triangulation implementation
+# Stereo 3D-Reconstruction
+- Stereo 3D Reconstruction by linear triangulation implementation
 - For each image file, pairs of matching points are found between the two image views of the scene
 - Using a modified version of RANSAC, inliers in the matching points are detected
 - The fundamental matrix between the scenes is computed using the inlier matching image points
